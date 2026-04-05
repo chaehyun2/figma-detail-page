@@ -1,0 +1,24 @@
+:root {
+  --c-212529: #212529;
+  --c-ffce22: #ffce22;
+  --c-ffffff: #ffffff;
+  --c-000000: #000000;
+  --c-f59f00: #f59f00;
+  --c-868e96: #868e96;
+  --c-495057: #495057;
+  --c-333333: #333333;
+  --c-444444: #444444;
+  --c-fffcea: #fffcea;
+  --c-dee2e6: #dee2e6;
+  --c-f3f3f3: #f3f3f3;
+  --c-ff5100: #ff5100;
+  --c-ff5900: #ff5900;
+  --c-ffd147: #ffd147;
+  --c-d9d9d9: #d9d9d9;
+  --c---ba-255-206-34-0-1-: rgba(255,206,34,0.1);
+  --c-ced4da: #ced4da;
+  --c-ff6200: #ff6200;
+  --c-ffdf0d: #ffdf0d;
+  --c-aeaeae: #aeaeae;
+  --font-pretendard: 'Pretendard Variable', 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
