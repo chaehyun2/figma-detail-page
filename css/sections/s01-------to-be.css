@@ -3019,6 +3019,7 @@
   letter-spacing: -0.030em;
   text-align: center;
   word-break: keep-all;
+  white-space: pre-line;
   color: var(--c-212529);
 }
 
