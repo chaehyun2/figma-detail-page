@@ -743,7 +743,7 @@
   height: 0;
   flex-shrink: 0;
   margin: 0 0 59px 0;
-  border: 1px solid var(--c-000000);
+  border-top: 1px solid var(--c-000000);
   opacity: 0.20000000298023224;
 }
 
@@ -896,7 +896,7 @@
   height: 0;
   align-self: stretch;
   flex-shrink: 0;
-  border: 1px solid var(--c-212529);
+  border-top: 1px solid var(--c-212529);
   opacity: 0.20000000298023224;
 }
 
@@ -1033,7 +1033,7 @@
   height: 0;
   align-self: stretch;
   flex-shrink: 0;
-  border: 1px solid var(--c-212529);
+  border-top: 1px solid var(--c-212529);
   opacity: 0.20000000298023224;
 }
 
@@ -1169,7 +1169,7 @@
   height: 0;
   align-self: stretch;
   flex-shrink: 0;
-  border: 1px solid var(--c-212529);
+  border-top: 1px solid var(--c-212529);
   opacity: 0.20000000298023224;
 }
 
@@ -1282,7 +1282,7 @@
   height: 0;
   flex-shrink: 0;
   margin: 0 0 49px 0;
-  border: 1px solid var(--c-000000);
+  border-top: 1px solid var(--c-000000);
   opacity: 0.20000000298023224;
 }
 
@@ -1508,7 +1508,7 @@
   height: 0;
   align-self: stretch;
   flex-shrink: 0;
-  border: 1px solid var(--c-000000);
+  border-top: 1px solid var(--c-000000);
   opacity: 0.20000000298023224;
 }
 
@@ -1530,7 +1530,7 @@
   height: 0;
   align-self: stretch;
   flex-shrink: 0;
-  border: 1px solid var(--c-000000);
+  border-top: 1px solid var(--c-000000);
   opacity: 0.20000000298023224;
 }
 
@@ -1552,7 +1552,7 @@
   height: 0;
   align-self: stretch;
   flex-shrink: 0;
-  border: 1px solid var(--c-000000);
+  border-top: 1px solid var(--c-000000);
   opacity: 0.20000000298023224;
 }
 
@@ -1670,7 +1670,7 @@
   height: 0;
   flex-shrink: 0;
   margin: 0 0 49px 0;
-  border: 1px solid var(--c-000000);
+  border-top: 1px solid var(--c-000000);
   opacity: 0.20000000298023224;
 }
 
@@ -1994,7 +1994,7 @@
   height: 0;
   flex-shrink: 0;
   margin: 0 0 49px 0;
-  border: 1px solid var(--c-000000);
+  border-top: 1px solid var(--c-000000);
   opacity: 0.20000000298023224;
 }
 
@@ -2858,7 +2858,7 @@
   height: 0;
   flex-shrink: 0;
   margin: 0 0 49px 0;
-  border: 1px solid var(--c-000000);
+  border-top: 1px solid var(--c-000000);
   opacity: 0.20000000298023224;
 }
 
@@ -3189,7 +3189,7 @@
   height: 0;
   flex-shrink: 0;
   margin: 0 0 50px 0;
-  border: 1px solid var(--c-000000);
+  border-top: 1px solid var(--c-000000);
   opacity: 0.20000000298023224;
 }
 
