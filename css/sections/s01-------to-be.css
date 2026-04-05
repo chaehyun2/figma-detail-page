@@ -2398,7 +2398,7 @@
   font-weight: 400;
   line-height: 1.6;
   letter-spacing: -0.040em;
-  word-break: keep-all;
+  word-break: break-all;
   color: var(--c-212529);
 }
 
@@ -2612,7 +2612,7 @@
   font-weight: 400;
   line-height: 1.6;
   letter-spacing: -0.040em;
-  word-break: keep-all;
+  word-break: break-all;
   color: var(--c-212529);
 }
 
@@ -2825,7 +2825,7 @@
   font-weight: 400;
   line-height: 1.6;
   letter-spacing: -0.040em;
-  word-break: keep-all;
+  word-break: break-all;
   color: var(--c-212529);
 }
 
