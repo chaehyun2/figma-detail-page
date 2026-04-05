@@ -3260,7 +3260,6 @@
 
 .n-5-529 {
   width: 360px;
-  height: 741px;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -3268,7 +3267,6 @@
   flex-shrink: 0;
   padding: 40px 20px;
   background-color: var(--c-f3f3f3);
-  overflow: hidden;
 }
 
 .n-col-5-531-5-532-5-536-5-540 {
